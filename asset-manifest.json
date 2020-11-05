@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/MyFirstProject/static/css/main.3acfe329.chunk.css",
+    "main.js": "/MyFirstProject/static/js/main.d76c583e.chunk.js",
+    "main.js.map": "/MyFirstProject/static/js/main.d76c583e.chunk.js.map",
+    "runtime-main.js": "/MyFirstProject/static/js/runtime-main.f2853cd2.js",
+    "runtime-main.js.map": "/MyFirstProject/static/js/runtime-main.f2853cd2.js.map",
+    "static/js/2.bf6a4ab6.chunk.js": "/MyFirstProject/static/js/2.bf6a4ab6.chunk.js",
+    "static/js/2.bf6a4ab6.chunk.js.map": "/MyFirstProject/static/js/2.bf6a4ab6.chunk.js.map",
+    "static/css/3.cc5c04c1.chunk.css": "/MyFirstProject/static/css/3.cc5c04c1.chunk.css",
+    "static/js/3.7f0c99b6.chunk.js": "/MyFirstProject/static/js/3.7f0c99b6.chunk.js",
+    "static/js/3.7f0c99b6.chunk.js.map": "/MyFirstProject/static/js/3.7f0c99b6.chunk.js.map",
+    "static/css/4.742f2e6c.chunk.css": "/MyFirstProject/static/css/4.742f2e6c.chunk.css",
+    "static/js/4.3d4d1dd4.chunk.js": "/MyFirstProject/static/js/4.3d4d1dd4.chunk.js",
+    "static/js/4.3d4d1dd4.chunk.js.map": "/MyFirstProject/static/js/4.3d4d1dd4.chunk.js.map",
+    "index.html": "/MyFirstProject/index.html",
+    "precache-manifest.d9b3601844fdd6752f64aaec37bade8e.js": "/MyFirstProject/precache-manifest.d9b3601844fdd6752f64aaec37bade8e.js",
+    "service-worker.js": "/MyFirstProject/service-worker.js",
+    "static/css/3.cc5c04c1.chunk.css.map": "/MyFirstProject/static/css/3.cc5c04c1.chunk.css.map",
+    "static/css/4.742f2e6c.chunk.css.map": "/MyFirstProject/static/css/4.742f2e6c.chunk.css.map",
+    "static/css/main.3acfe329.chunk.css.map": "/MyFirstProject/static/css/main.3acfe329.chunk.css.map",
+    "static/js/2.bf6a4ab6.chunk.js.LICENSE.txt": "/MyFirstProject/static/js/2.bf6a4ab6.chunk.js.LICENSE.txt",
+    "static/media/preLoad.svg": "/MyFirstProject/static/media/preLoad.f4d7875d.svg",
+    "static/media/twitter-icon.png": "/MyFirstProject/static/media/twitter-icon.2ea7295b.png",
+    "static/media/user_icon.jpg": "/MyFirstProject/static/media/user_icon.0f8e789e.jpg",
+    "static/media/vk-icon.png": "/MyFirstProject/static/media/vk-icon.5032d862.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2853cd2.js",
+    "static/js/2.bf6a4ab6.chunk.js",
+    "static/css/main.3acfe329.chunk.css",
+    "static/js/main.d76c583e.chunk.js"
+  ]
+}
