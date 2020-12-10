@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MyFirstProject/static/css/main.aff86ffc.chunk.css",
+    "main.css": "/MyFirstProject/static/css/main.de0f6e3a.chunk.css",
     "main.js": "/MyFirstProject/static/js/main.2ee45a58.chunk.js",
     "main.js.map": "/MyFirstProject/static/js/main.2ee45a58.chunk.js.map",
     "runtime-main.js": "/MyFirstProject/static/js/runtime-main.b1a9d73f.js",
@@ -14,11 +14,11 @@
     "static/js/4.f51a2599.chunk.js": "/MyFirstProject/static/js/4.f51a2599.chunk.js",
     "static/js/4.f51a2599.chunk.js.map": "/MyFirstProject/static/js/4.f51a2599.chunk.js.map",
     "index.html": "/MyFirstProject/index.html",
-    "precache-manifest.22e48137d09488814418855bd76114a8.js": "/MyFirstProject/precache-manifest.22e48137d09488814418855bd76114a8.js",
+    "precache-manifest.c6066811e6d3eac34f7b1cf9e1c1b5dc.js": "/MyFirstProject/precache-manifest.c6066811e6d3eac34f7b1cf9e1c1b5dc.js",
     "service-worker.js": "/MyFirstProject/service-worker.js",
     "static/css/3.a7141009.chunk.css.map": "/MyFirstProject/static/css/3.a7141009.chunk.css.map",
     "static/css/4.742f2e6c.chunk.css.map": "/MyFirstProject/static/css/4.742f2e6c.chunk.css.map",
-    "static/css/main.aff86ffc.chunk.css.map": "/MyFirstProject/static/css/main.aff86ffc.chunk.css.map",
+    "static/css/main.de0f6e3a.chunk.css.map": "/MyFirstProject/static/css/main.de0f6e3a.chunk.css.map",
     "static/js/2.a45a9c27.chunk.js.LICENSE.txt": "/MyFirstProject/static/js/2.a45a9c27.chunk.js.LICENSE.txt",
     "static/media/89 (3).png": "/MyFirstProject/static/media/89 (3).14d16542.png",
     "static/media/preLoad.svg": "/MyFirstProject/static/media/preLoad.f4d7875d.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.b1a9d73f.js",
     "static/js/2.a45a9c27.chunk.js",
-    "static/css/main.aff86ffc.chunk.css",
+    "static/css/main.de0f6e3a.chunk.css",
     "static/js/main.2ee45a58.chunk.js"
   ]
 }
